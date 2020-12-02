@@ -1,2 +1,2 @@
 #Install the graphviz Linux package
-graphvizS
+graphviz
