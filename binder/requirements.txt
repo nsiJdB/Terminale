@@ -2,3 +2,4 @@
 # This file is run in the context of that directory
 ./package_graphviz
 folium
+pillow
